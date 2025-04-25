@@ -1,4 +1,4 @@
-This is a repository to accompany Example VI.10 in the following paper:
+This is a repository to accompany Example IV.10 in the following paper:
 
 The permutation group of Reed-Solomon codes over arbitrary points, Eduardo Camps Moreno, Jun Bo Lau, Hiram H. Lopez, Welington Santos
 
